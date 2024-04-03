@@ -1,0 +1,1 @@
+Здравствуйте, <?php echo htmlspecialchars($_POST['UID']); ?>.

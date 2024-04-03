@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Mukta;
+    src: url("/assets/fonts/Mukta-Medium.ttf");
+}
+
+@font-face {
+    font-family: Nunito;
+    src: url("/assets/fonts/Nunito-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: SSPro;
+    src: url("/assets/fonts/SourceSansPro-Regular.ttf");
+}
